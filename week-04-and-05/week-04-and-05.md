@@ -1,4 +1,4 @@
-# Week 2 and 3
+# Week 4 and 5
 
   8th June - 21st June , 2020
 
@@ -22,7 +22,9 @@ By the way, the c51 implementation doesn't converge. I searched a lot, but could
 By now, I'm pretty sure that most colleges, especially ours, are going to conduct their next semester completely online. I guess it'll be a new experience altogether! I'm not sure when's the next time we are going to see our college...
 
 This week, I saw two great movies, both incredible in their respective genres.
+
 The 'Green Mile' had a very profound effect on me. 
+
 'Knives Out' is a recent film, and I was surprised why I hadn't heard of it earlier, considering the above average ratings and familiar artists. Anyways, I guess it can be counted among the best mystery movies that I've seen.
 
 Btw, I recently found out that watching unboxing videos can feel quite satisfying sometimes..
