@@ -20,6 +20,7 @@ Here are the details of what I expect to have accomplished at the end of the sum
 ## Weekly Progress:
 ### [Week 1  - Layout for Dueling and Noisy DQNs](week-01/week-01.md)
 ### [Week 2 and 3  - Finishing Dueling and Noisy DQNs](week-02-and-03/week-02-and-03.md)
+### [Week 4 and 5  - Completed Multi-step DQN, C51 almost ready](week-04-and-05/week-04-and-05.md) 
 
 ## Work Progress:
 Links to open and merged pull requests can be found [here](PRs.md).
