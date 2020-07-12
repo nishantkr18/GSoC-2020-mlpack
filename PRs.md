@@ -1,5 +1,5 @@
 ## Open PRs:
-1. N-step learning for DQN (https://github.com/mlpack/mlpack/pull/2461)
+1. Addition of Soft Actor-Critic to RL methods (https://github.com/mlpack/mlpack/pull/2487)
 2. Addition of Categorical DQN (https://github.com/mlpack/mlpack/pull/2454)
 
 ## Merged PRs:
@@ -14,3 +14,5 @@
 9. Added cartpole-dqn notebook (https://github.com/mlpack/examples/pull/90)
 10. Addition of DuelingDQN and Noisy linear layer (https://github.com/mlpack/mlpack/pull/2414)
 11. Addition of Noisy DQN to QLearning (https://github.com/mlpack/mlpack/pull/2446)
+12. N-step learning for DQN (https://github.com/mlpack/mlpack/pull/2461)
+13. Adding support to use gym_tcp_api for training agents in q_learning (https://github.com/mlpack/mlpack/pull/2497)
