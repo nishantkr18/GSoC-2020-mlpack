@@ -1,7 +1,9 @@
 # Addition of Rainbow and Soft Actor-Critic to RL codebase
 
-## Abstract:
-Hi! This summer, I'd like to add Rainbow [Hessel et al., 2017](https://arxiv.org/abs/1710.02298) and Soft Actor-Critic [Haarnoja et al., 2019](https://arxiv.org/abs/1812.05905) to the existing reinforcement learning codebase of **[mlpack](http://mlpack.org/)**, as I feel these are one of the most in-demand and recent algorithms, whose implementation in [mlpack](http://mlpack.org/) would be crucial.
+Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020). 
+
+## Project Abstract:
+This summer, I'd like to add Rainbow [Hessel et al., 2017](https://arxiv.org/abs/1710.02298) and Soft Actor-Critic [Haarnoja et al., 2019](https://arxiv.org/abs/1812.05905) to the existing reinforcement learning codebase of **[mlpack](http://mlpack.org/)**, as I feel these are one of the most in-demand and recent algorithms, whose implementation in [mlpack](http://mlpack.org/) would be crucial.
 
 Here are the details of what I expect to have accomplished at the end of the summer.
 
@@ -21,7 +23,8 @@ Here are the details of what I expect to have accomplished at the end of the sum
 ### [Week 1  - Layout for Dueling and Noisy DQNs](week-01/week-01.md)
 ### [Week 2 and 3  - Finishing Dueling and Noisy DQNs](week-02-and-03/week-02-and-03.md)
 ### [Week 4 and 5  - Completed Multi-step DQN, C51 almost ready](week-04-and-05/week-04-and-05.md) 
-### [Week 6 and 7  - Training on gym_tcp_api, Layout for Soft-actor-critic](week-06-and-07/week-06-and-07.md) 
+### [Week 6 and 7  - Training on gym_tcp_api, Layout for Soft-actor-critic](week-06-and-07/week-06-and-07.md)
+### [Week 8 and 9  - Soft-Actor basic implementation complete, making solved example notebooks](week-08-and-09/week-08-and-09.md)
 
 ## Work Progress:
 Links to open and merged pull requests can be found [here](PRs.md).
