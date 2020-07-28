@@ -1,7 +1,6 @@
 ## Open PRs:
 1. Addition of Soft Actor-Critic to RL methods (https://github.com/mlpack/mlpack/pull/2487)
 2. Addition of Categorical DQN (https://github.com/mlpack/mlpack/pull/2454)
-3. Changes to the network initialization methods in Q_learning networks(https://github.com/mlpack/mlpack/pull/2540)
 4. Adding notebook for solving acrobot using dqn (https://github.com/mlpack/examples/pull/100)
 5. Adding notebook for solving mountainCar using DQN (https://github.com/mlpack/examples/pull/103)
 
@@ -21,3 +20,4 @@
 13. Adding support to use gym_tcp_api for training agents in q_learning (https://github.com/mlpack/mlpack/pull/2497)
 14. Doc changes for q_learning (https://github.com/mlpack/mlpack/pull/2515)
 15. Changes corresponding to mlpack repo in cartpole_dqn (https://github.com/mlpack/examples/pull/99)
+16. Changes to the network initialization methods in Q_learning networks(https://github.com/mlpack/mlpack/pull/2540)

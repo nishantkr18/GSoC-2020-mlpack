@@ -1,4 +1,4 @@
-# Week 6 and 7
+# Week 8 and 9
 
   13th - 26th July , 2020.
 
