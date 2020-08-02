@@ -1,6 +1,14 @@
 # Addition of Rainbow and Soft Actor-Critic to RL codebase
 
-Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020). 
+Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020).
+
+
+Here's the output of some agents that I implemented this summer, solving some common GYM environments.
+
+<a href="https://gym.openai.com/envs/CartPole-v1/"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
+<a href="https://gym.openai.com/envs/MountainCar-v0/"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
+<a href="https://gym.openai.com/envs/Acrobot-v1"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
+
 
 ## Project Abstract:
 This summer, I'd like to add Rainbow [Hessel et al., 2017](https://arxiv.org/abs/1710.02298) and Soft Actor-Critic [Haarnoja et al., 2019](https://arxiv.org/abs/1812.05905) to the existing reinforcement learning codebase of **[mlpack](http://mlpack.org/)**, as I feel these are one of the most in-demand and recent algorithms, whose implementation in [mlpack](http://mlpack.org/) would be crucial.
