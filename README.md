@@ -9,6 +9,7 @@ Here's the output of some agents that I implemented this summer, solving some co
 <a href="https://gym.openai.com/envs/CartPole-v1/"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
 <a href="https://gym.openai.com/envs/MountainCar-v0/"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
 <a href="https://gym.openai.com/envs/Acrobot-v1"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
+<a href="https://gym.openai.com/envs/Pendulum-v0"><img border="3" alt="drawing" src="week-10-and-11/pendulum.gif" height="200"></a>
 
 
 ## Project Abstract:
@@ -34,6 +35,7 @@ Here are the details of what I expect to have accomplished at the end of the sum
 ### [Week 4 and 5  - Completed Multi-step DQN, C51 almost ready](week-04-and-05/week-04-and-05.md) 
 ### [Week 6 and 7  - Training on gym_tcp_api, Layout for Soft-actor-critic](week-06-and-07/week-06-and-07.md)
 ### [Week 8 and 9  - Soft-Actor basic implementation complete, making solved example notebooks](week-08-and-09/week-08-and-09.md)
+### [Week 10 and 11  - C51 merged, Soft-Actor-Critic almost complete, three new solved notebooks added, bug fixes 🐛🐛](week-10-and-11/week-10-and-11.md)
 
 ## Work Progress:
 Links to open and merged pull requests can be found [here](PRs.md).
