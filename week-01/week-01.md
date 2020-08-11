@@ -6,7 +6,8 @@
 - By making a [few](https://github.com/mlpack/mlpack) changes in mlpack's Q_learning implementation, was able to get the Q_learning agent train on mlpack's implementation, and then run on a gym environment with visual rendering using https://github.com/zoq/gym_tcp_api.
 - After discussion with mentors and tuning hyperparameters, was able to finally ['solve'](https://github.com/mlpack/examples/pull/90) [cartpole](https://gym.openai.com/envs/CartPole-v0/) environment, by achieving avg >195 reward for 100 consecutive episodes.
 
-![agent](solved-cartpole.gif)
+<a href="https://gym.openai.com/envs/MountainCar-v0/"><img border="3" alt="drawing" src="solved-cartpole.gif" height="200"></a>
+
 - Completed a skeleton layout of the Dueling network.
 - Gave a read to the [Noisy-Network paper](https://arxiv.org/abs/1706.10295), then added the layout for Noisy Layer, to be used in NoisyDQN implementation.
 - Did some matrix calculus, in order to better understand gradient flow in nn, especially for branched networks.

@@ -5,11 +5,12 @@ Hi! Maintaining mlpack's tradition, this page contains weekly updates of my cont
 
 Here's the output of some agents that I implemented this summer, solving some common GYM environments.
 
-<a href="https://gym.openai.com/envs/LunarLander-v2/"><img border="3" alt="drawing" src="week-10-and-11/lunar_lander.gif" height="200"></a>
-<a href="https://gym.openai.com/envs/CartPole-v1/"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
-<a href="https://gym.openai.com/envs/MountainCar-v0/"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
-<a href="https://gym.openai.com/envs/Acrobot-v1"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
-<a href="https://gym.openai.com/envs/Pendulum-v0"><img border="3" alt="drawing" src="week-10-and-11/pendulum.gif" height="200"></a>
+<a href="week-01/week-01.html"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
+<a href="week-08-and-09/week-08-and-09.html"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
+
+<a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
+<a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/pendulum.gif" height="200"></a>
+<a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/lunar_lander.gif" height="200"></a>
 
 
 ## Project Abstract:

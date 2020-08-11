@@ -25,21 +25,20 @@ Because the agent’s reward never changes until completion of the episode, it i
 So, I tried tweaking the reward function, by giving an additional `0.5` reward for every time the agent managed to drag the car in the backward direction. This was important to gain momentum to climb the hill.
 This made the process more sample efficient. I was finally able to use dqn with fewer steps to achieve good results:
 
-![BM](output.gif)
+<a href="https://gym.openai.com/envs/MountainCar-v0/"><img border="3" alt="drawing" src="output.gif" height="200"></a>
 
 I also realized the importance of network initialization. While training mountain car with the custom reward function, the agent started performing well only after `500` episodes. This was happening because I was using `GaussianInitialization` with standard deviation as `0.001`. This was a standard convention used in the tests, so I didn't bother to change it earlier. But once I changed it to `1`, the agent began training just after `75` episodes (which earlier was taking `500` episodes!).
 
 
 ## Movie suggestions:
 
-![BM](bm.jpeg)
+<a><img border="1" alt="drawing" src="bm.jpeg" height="200"></a>
 
-I think all tech enthusiasts must, atleast once, watch 'Black Mirror'. It shows how the near future can be dangerous and dark, if we are not careful.
+I think all tech enthusiasts must, atleast once, watch `Black Mirror`. It shows how the near future can be dangerous and dark, if we are not careful.
 
 But, if you are feeling low, I suggest watching `Wonder`. I'm sure it will cheer you up :)
 
-![wonder](won.jpg)
-
+<a><img border="1" alt="drawing" src="won.jpg" height="200"></a>
 
 
 Thanks for reading, and have a good one ;)
