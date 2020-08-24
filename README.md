@@ -3,7 +3,7 @@
 Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020).
 
 
-Here's the output of some agents that I implemented this summer, solving some common GYM environments.
+Here's the output of the agents that I implemented this summer, solving some of the classical reinforcement learning environments.
 
 <a href="week-01/week-01.html"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
 <a href="week-08-and-09/week-08-and-09.html"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
@@ -11,6 +11,7 @@ Here's the output of some agents that I implemented this summer, solving some co
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/pendulum.gif" height="200"></a>
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/lunar_lander.gif" height="200"></a>
+<a href="https://gym.openai.com/envs/BipedalWalker-v2/"><img border="3" alt="drawing" src="week-12/walking.gif" height="200"></a>
 
 
 ## Project Abstract:
@@ -40,6 +41,7 @@ Here's the summary of what I've accomplished at the end of this summer.
 ### [Week 6 and 7  - Training on gym_tcp_api, Layout for Soft-actor-critic](week-06-and-07/week-06-and-07.md)
 ### [Week 8 and 9  - Soft-Actor basic implementation complete, making solved example notebooks](week-08-and-09/week-08-and-09.md)
 ### [Week 10 and 11  - C51 merged, Soft-Actor-Critic almost complete, three new solved notebooks added, bug fixes 🐛🐛](week-10-and-11/week-10-and-11.md)
+### [Week 12 - Wrapping up](week-12/week-12.md)
 
 ## Work Progress:
 Links to open and merged pull requests can be found [here](PRs.md).

@@ -1,4 +1,6 @@
 ## Open PRs:
+1. [Bipedal walker using Soft Actor-Critic](https://github.com/mlpack/examples/pull/111)
+2. [A small bug fix for SAC agent, while loading a pretrained model](https://github.com/mlpack/mlpack/pull/2578)
 
 ## Merged PRs:
 1. [DoubleDQN doesn't utilize DoubleQLearning](https://github.com/mlpack/mlpack/pull/2302)
@@ -23,3 +25,5 @@
 20. [Addition of Categorical DQN](https://github.com/mlpack/mlpack/pull/2454)
 21. [Added LunarLander-v2 env with dqn notebook](https://github.com/mlpack/examples/pull/109)
 22. [Addition of Soft Actor-Critic to RL methods](https://github.com/mlpack/mlpack/pull/2487)
+23. [Adding SAC example for pendulum env](https://github.com/mlpack/examples/pull/110)
+24. [Added support for multiple actions in action space for Soft Actor Critic](https://github.com/mlpack/mlpack/pull/2569)
