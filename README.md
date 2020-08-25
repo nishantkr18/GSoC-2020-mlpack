@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://summerofcode.withgoogle.com/"><img style="padding: 20px;" alt="drawing" src="GSoC_logo.png" height="200"></a>
-<a href="https://www.mlpack.org/"><img style="padding: 20px;" alt="drawing" src="mlpack2.png" height="200"></a>
+<a href="https://www.mlpack.org/"><img style="padding: 20px;" alt="drawing" src="mlpack.png" height="200"></a>
 </p>
 
 Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020).
