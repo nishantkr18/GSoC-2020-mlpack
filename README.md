@@ -26,7 +26,7 @@ Here's the output of the agents that I implemented this summer, solving some of 
 </p>
 
 
-## Project Abstract:
+## Overview:
 I spent my summers this year, working on adding **Rainbow** [Hessel et al., 2017](https://arxiv.org/abs/1710.02298) and **Soft Actor-Critic** [Haarnoja et al., 2019](https://arxiv.org/abs/1812.05905) to the existing reinforcement learning codebase of **[mlpack](http://mlpack.org/)**.
 
 I feel that these are one of the most in-demand and recent algorithms, whose implementation in [mlpack](http://mlpack.org/) was crucial.
@@ -55,5 +55,17 @@ Here's the summary of what I've accomplished at the end of this summer.
 - [Week 10 and 11  - C51 merged, Soft-Actor-Critic almost complete, three new solved notebooks added, bug fixes 🐛🐛](week-10-and-11/week-10-and-11.md)
 - [Week 12 - Wrapping up](week-12/week-12.md)
 
-## Work Progress:
+## the Code:
 Links to open and merged pull requests can be found [here](PRs.md).
+
+## Acknowledgements:
+There has been a lot of coding, experimentation, thousands of builds and never ending debugging, so much that to think that it is coming to a wrap up doesn’t feel like reality. Special thanks to [Marcus Edel](https://github.com/zoq/), one of my mentors this year, who had the answers to almost all the problems I faced. With your and [Rahul](https://github.com/favre49)'s support, I had a very smooth and enjoyable experience, and I hardly ever got stuck anywhere.
+
+I would also like to acknowledge the help from other members of the community, who were always available whenever needed, just a small chat away. 
+I strongly intend to continue contributing to mlpack in all the ways I can, because it's just too much fun. :)
+
+I would also like to thank @[shivanshs9](https://github.com/shivanshs9), @[adityauser](https://github.com/adityauser), @[YashJipkate](https://github.com/YashJipkate) and @[lok-i](https://github.com/lok-i) for their  proposal reviews.
+
+Also, thanks to Google for this amazing opportunity and the generous funding.
+
+This has been a summer worth remembering!

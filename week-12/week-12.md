@@ -30,7 +30,7 @@ But, training the network remotely on a different machine should do the job. I h
 
 A small unnoticed issue was that SAC had not been tested on a multi-action environment like bipedal. But with some minor adjustments [PR 2569](https://github.com/mlpack/mlpack/pull/2569) in the backward pass, the issue was finally resolved.
 
-## Acknowledgements:
+## Concluding:
 
 I am so glad to see the [PRs](../PRs.md) page. Most of my contributions this summer are now a part of mlpack, something I dreamt of while starting contributing to mlpack. For this, I'm in debt of gratitude to Marcus and Rahul, for those overnight (or sometimes within minutes) reviews, suggestions and comments.
 
