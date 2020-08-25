@@ -32,5 +32,5 @@ A small unnoticed issue was that SAC had not been tested on a multi-action envir
 
 ## Acknowledgements:
 
-I am so glad to see the [PRs](../PRs.md) page. Most of my contributions this summer are now a part of mlpack, something I dreamt of while starting open-source. For this, I'm in debt of gratitude to Marcus and Rahul, for those overnight (or sometimes within minutes) reviews, suggestions and comments.
+I am so glad to see the [PRs](../PRs.md) page. Most of my contributions this summer are now a part of mlpack, something I dreamt of while starting contributing to mlpack. For this, I'm in debt of gratitude to Marcus and Rahul, for those overnight (or sometimes within minutes) reviews, suggestions and comments.
 

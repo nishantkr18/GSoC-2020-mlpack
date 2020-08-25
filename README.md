@@ -1,17 +1,29 @@
 # Addition of Rainbow and Soft Actor-Critic to RL codebase
 
+<p align="center">
+<a href="GSoC_logo.png"><img style="padding-right: 20px;" padding="40" alt="drawing" src="GSoC_logo.png" height="200"></a>
+<a href="mlpack.png"><img  alt="drawing" src="mlpack2.png" height="200"></a>
+</p>
+
 Hi! Maintaining mlpack's tradition, this page contains weekly updates of my contributions at mlpack during Google Summer of Code(2020).
 
 
 Here's the output of the agents that I implemented this summer, solving some of the classical reinforcement learning environments.
 
+<p align="center">
 <a href="week-01/week-01.html"><img border="3" alt="drawing" src="week-01/solved-cartpole.gif" height="200"></a>
 <a href="week-08-and-09/week-08-and-09.html"><img border="3" alt="drawing" src="week-08-and-09/output.gif" height="200"></a>
+</p>
 
+<p align="center">
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/acrobot.gif" height="200"></a>
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/pendulum.gif" height="200"></a>
+</p>
+
+<p align="center">
 <a href="week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/lunar_lander.gif" height="200"></a>
-<a href="https://gym.openai.com/envs/BipedalWalker-v2/"><img border="3" alt="drawing" src="week-12/walking.gif" height="200"></a>
+<a href="week-12/week-12.html"><img border="3" alt="drawing" src="week-12/walking.gif" height="200"></a>
+</p>
 
 
 ## Project Abstract:
