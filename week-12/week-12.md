@@ -26,6 +26,11 @@ This however increases the training time a lot, making it impossible for me use 
 
 But, training the network remotely on a different machine should do the job. I hope to see mlpack's SAC making giant leaps on the Bipedal Walker environment soon.
 
+*Update 29th August: After getting the agent trained with 2-hidden layers for both Q and policy networks, results were much better. Here's the output after 620 episodes of training:*
+
+<a href="https://gym.openai.com/envs/BipedalWalker-v2/"><img border="3" alt="drawing" src="final_bipedal.gif" height="200"></a>
+
+
 ## Issue fixed:
 
 A small unnoticed issue was that SAC had not been tested on a multi-action environment like bipedal. But with some minor adjustments [PR 2569](https://github.com/mlpack/mlpack/pull/2569) in the backward pass, the issue was finally resolved.
@@ -33,4 +38,3 @@ A small unnoticed issue was that SAC had not been tested on a multi-action envir
 ## Concluding:
 
 I am so glad to see the [PRs](../PRs.md) page. Most of my contributions this summer are now a part of mlpack, something I dreamt of while starting contributing to mlpack. For this, I'm in debt of gratitude to Marcus and Rahul, for those overnight (or sometimes within minutes) reviews, suggestions and comments.
-

@@ -22,7 +22,7 @@ Here's the output of the agents that I implemented this summer, solving some of 
 
 <p align="center">
 <a href="https://nishantkr18.github.io/GSoC-2020-mlpack/week-10-and-11/week-10-and-11.html"><img border="3" alt="drawing" src="week-10-and-11/lunar_lander.gif" height="200"></a>
-<a href="https://nishantkr18.github.io/GSoC-2020-mlpack/week-12/week-12.html"><img border="3" alt="drawing" src="week-12/walking.gif" height="200"></a>
+<a href="https://nishantkr18.github.io/GSoC-2020-mlpack/week-12/week-12.html"><img border="3" alt="drawing" src="week-12/final_bipedal.gif" height="200"></a>
 </p>
 
 
